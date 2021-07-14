@@ -45,7 +45,7 @@ Step 4: The web application is designed using HTML, CSS and JavaScript and deplo
 
 Following are some screenshots of the application:
 <img src="./Images/application_1.PNG" title="Recommended Movie Details">
-<img src="./Images/application_2.PNG" title="Sentiment Analysis of movies"
+<img src="./Images/application_2.PNG" title="Sentiment Analysis of movies">
 
 ## Conclusion
 
