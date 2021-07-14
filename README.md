@@ -44,8 +44,8 @@ Step 3: The recommendation model is built using collaborative filtering techniqu
 Step 4: The web application is designed using HTML, CSS and JavaScript and deployed on Heroku. The information regarding the movie and reviews are taken from IMDB website through web scraping and TMDB API.
 
 Following are some screenshots of the application:
-<Recommended Movie Details, img src="./Images/application_1.PNG">
-<Sentiment Analysis details, img src="./Images/application_2.PNG">
+![Recommended movie details](img src="./Images/application_1.PNG")
+![Sentiment Analysis details](img src="./Images/application_2.PNG")
 
 ## Conclusion
 
