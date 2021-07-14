@@ -52,7 +52,7 @@ Following are some screenshots of the application:
 The report proposes the methodology for a movie recommendation system and sentiment analysis of IMDB movie reviews. Other deep learning methods for collaborative filtering can be implemented to compare with the results of matrix factorization method used. The results from movie reviews sentiment analysis shows that logistic regression and naive bayes perform better than SVM and random forest classifier. The accuracy of SVM and random forest can be improved by performing hyperparameter tuning as SVM is one of the best algorithm for classification problems. Lastly, we can implement other vectorization techniques and other classification algorithms including neural networks and perform a deep comparative analysis.
 
 ## References
-[1] F.O. Isinkaye, Y.O. Folajimi, B.A. Ojokoh. Recommendation Systems: Principles, methods and evaluation. DOI:https://doi.org/10.1016/j.eij.2015.06.005
-[2] Bobadilla, J., Ortega, F., Hernando, A., & Gutiérrez, A. (2013). Recommender systems survey. Knowl. Based Syst., 46, 109-132.
-[3] Jian Shen, Yan Wie, Yupu Yang. Collaborative filtering recommendation algorithm based on two stages of similarity learning and its optimization
-[4] A. Tripathy, A. Agrawal, and S. K. Rath, “Classification of Sentimental Reviews Using Machine Learning Techniques”, 3rd International Conference on Recent Trends in Computing 2015 (ICRTC2015), Procedia Computer Science, vol. 57, 2015, pp. 821 – 829
+1. F.O. Isinkaye, Y.O. Folajimi, B.A. Ojokoh. Recommendation Systems: Principles, methods and evaluation. DOI:https://doi.org/10.1016/j.eij.2015.06.005
+2. Bobadilla, J., Ortega, F., Hernando, A., & Gutiérrez, A. (2013). Recommender systems survey. Knowl. Based Syst., 46, 109-132.
+3. Jian Shen, Yan Wie, Yupu Yang. Collaborative filtering recommendation algorithm based on two stages of similarity learning and its optimization
+4. A. Tripathy, A. Agrawal, and S. K. Rath, “Classification of Sentimental Reviews Using Machine Learning Techniques”, 3rd International Conference on Recent Trends in Computing 2015 (ICRTC2015), Procedia Computer Science, vol. 57, 2015, pp. 821 – 829
