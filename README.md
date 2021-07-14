@@ -20,7 +20,7 @@ The dataset is taken from kaggle IMDB movie review dataset with only positive an
 
 The recommendation system is similar to any machine learning problem, in machine learning we need data which is sent to learning algorithms/models which processes the data and outputs the predictions. In our case the data is in the form of feedback from the users which is passed to a recommendation system where the learning model is implemented and produces the recommendation of users interest.
 
-<img src="./Images/recommender_architecture.png">
+<img src="./Images/recommender_architecture.PNG">
 
 ### Sentiment Analysis
 
@@ -31,7 +31,7 @@ results are displayed.
 The steps/methodology used is shown in the following figure and we will briefly go through each
 step:
 
-<img src="./Images/sentiment_analysis.png">
+<img src="./Images/sentiment_analysis.PNG">
 
 ## Implementation 
 
@@ -44,8 +44,8 @@ Step 3: The recommendation model is built using collaborative filtering techniqu
 Step 4: The web application is designed using HTML, CSS and JavaScript and deployed on Heroku. The information regarding the movie and reviews are taken from IMDB website through web scraping and TMDB API.
 
 Following are some screenshots of the application:
-<img src="./Images/application_1.png">
-<img src="./Images/application_2.png">
+<img src="./Images/application_1.PNG">
+<img src="./Images/application_2.PNG">
 
 ## Conclusion
 
